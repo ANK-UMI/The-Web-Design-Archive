@@ -1,1 +1,1 @@
-CSG-KDS(Coding Survival Guide for Korea Design Student)
+CSG2KDS(Coding Survival Guide to Korea Design Student)
