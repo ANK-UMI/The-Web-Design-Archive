@@ -1,4 +1,4 @@
-<h3>This is a 'Coding Survival Guide' by Gyumi an. </h3>
+<h2>This is a 'Coding Survival Guide' by Gyumi an. </h2>
 <ul>
 <li><a href = "./script/intro.md"></a></li>
 <li><a href = "./script/intro.md"></a></li>
