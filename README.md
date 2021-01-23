@@ -1,1 +1,1 @@
-<h3>CSG2KDS(Coding Survival Guide to Korea Design Student)</h3>
+<h3>CSGKDS(Coding Survival Guide by Korea Design Student)</h3>
