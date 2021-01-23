@@ -1,1 +1,1 @@
-<h3>CSGKDS(Coding Survival Guide by Korea Design Student)</h3>
+This is 'The Coding Survival Guide' by Korea Design Student.
