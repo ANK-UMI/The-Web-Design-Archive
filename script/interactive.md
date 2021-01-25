@@ -85,7 +85,9 @@ PC와 모바일이 대중화된 오늘날에는 결과물을 웹이나 앱의 �
 초기의 웹아트 작품으로는 〈장영혜중공업(http://www.yhchang.com)〉, 〈http://wwwwwwwww.jodi.org〉 등이 있다. <br>
 월드와이드웹(WWW)은 전 세계의 수많은 사람과 정보를 이어주는 거대한 네트워크다. <br>
 웹의 기본적인 구조는 HTML(.html)+CSS(.css)+Javascript(.js)로 이루어진다. <br>
-HTML은 구성요소(호칭 포함)와 내용(콘텐츠)를 정의하고, CSS는 구성요소들의 모습을 디자인하며, Javascript는 구성요소들간의 인터렉션을 디자인한다. <br>
+HTML은 구성요소(호칭 포함)와 내용(콘텐츠)를 정의하고, <br>
+CSS는 구성요소들의 모습을 디자인하며, <br>
+Javascript는 구성요소들간의 인터렉션을 디자인한다. <br>
 이 중 Javascript는 구성 요소들의 위치, 크기 움직임 등을 사용자가 원하는대로 지정할 수 있도록 한다. <br>
 특히 <a href="https://www.w3schools.com/html/html5_canvas.asp"><canvas> 앨리먼트</a>는 그래픽을 위한 컨테이너로, 패스, 박스, 원, 텍스트, 이미지 등을 그릴 수 있다. <br>
 또한 <canvas> 앨리먼트 구성요소에는 javascript를 통해 반응하는 그림도 그릴 수 있다. <br>
@@ -96,6 +98,7 @@ HTML은 구성요소(호칭 포함)와 내용(콘텐츠)를 정의하고, CSS는
 <a href="http://fabricjs.com/">fabricjs</a>, <br>
 <a href="http://html-canvas-lib.sourceforge.net/#about">HTML Canvas Javascript Library</a> <br>
 등이 있다. <br>
+  <br>
 직접 개발을 하지 않더라도 다양한 자바스크립트 라이브러리를 활용하여 충분히 원하는 그래픽을 구현할 수 있다. <br>
 이 외에도 JS를 이용할 수 있는 어도비사의 프로그램도 있다. <br>
 <a href="http://basiljs.ch/gallery/geometrie-1/">인디자인</a>, <br>
