@@ -77,22 +77,3 @@ HTML Canvas Javascript Library <br>
 일러스트레이터, <br>
 등 ... <br>
 <br>
-<h3>Web API</h3>
-웹에는 여러 유용한 작업을 수행할 수 있는 다양한 API가 제공된다. <br>
-Web API(Application Programming Interfaces)는 DOM 조작, 오디오 및 비디오 재생, 3D 그래픽 구현 등의 작업을 위해 사용한다. <br>
-
-이러한 API는 자바스크립트(JavaScript)코드를 사용하여 접근할 수 있으며 <code>window</code>나 <code>element</code>에 대한 간단한 작업에서부터 WebGL이나 WebAudio와 같은 API를 사용해 복잡한 그래픽 및 오디오 효과를 만들어내는 것까지 가능하다. <br>
-웹 코드를 작성한다면 많은 API를 사용할 수 있다. <br>
-Web API는 보통 JavaScript와 함께 사용하지만, 항상 그렇지는 않다. <br>
-모든 API에 대한 각각의 인터페이스는 <a href="https://developer.mozilla.org/ko/docs/Web/API/Blob">색인</a>에 열거되어있다. <br>
-또한 이벤트 레퍼런스에 <a href="https://developer.mozilla.org/ko/docs/Web/Events">이용가능한 모든 이벤트 목록</a>도 있다. 
-문서 객체 모델(Document Object Model, DOM)은 문서를 조회하거나 수정할 수 있는 API이다.
-웹 API로는 크게 W3C와 크로노스의 API가 있다. <br>
-W3C에는 오디오, 캔버스, CORS, DOM, DOM 이벤트, EME, 파일, Geolocation, IndexedDB, MSE, SSE, SVG, 비디오, WebRTC, 웹소켓, 웹 메시징, 웹 스토리지, 웹 워커, XMLHttpRequest 가 있다. <br>
-크로노스에는 WebCL(웹 컴퓨팅 언어), WebGL(Web Graphics Library)이 있다. <br>
-<a href="https://developer.mozilla.org/ko/docs/Web/API/WebGL_API">WebGL</a>은 플러그인을 사용하지 않고 웹 브라우저에서 상호작용 가능한 3D와 2D 그래픽을 표현하기 위한 JavaScript API이다. <br>
-WebGL은 HTML5 <code><canvas></code> 요소에서 사용할 수 있는, OpenGL ES 2.0을 대부분 충족하는 API를 제공한다. <br>
-현재(2020년 기준) WebGL은 Firefox 4+, Google Chrome 9+, Opera 12+, Safari 5.1+, Internet Explorer 11+, Microsoft Edge build 10240+에서 사용할 수 있다. <br>
-그러나 사용자 장치의 하드웨어도 WebGL 기능을 지원해야 한다. <br>
-2010년경에만 해도 WebGL을 지원하지 않는 브라우저가 많았다. 따라서 WebGL을 사용하지 않고 Canvas로 3D등을 구현하는 라이브러리를 개발하려는 시도가 있었다. <br> 
-SVG와 Canvas로 3D를 구현한 데모로 <a href="http://matthew.wagerfield.com/flat-surface-shader/'">Flat Surface Shader'</a>이라는 것이 있다. <br>
