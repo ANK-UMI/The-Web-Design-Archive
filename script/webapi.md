@@ -55,7 +55,7 @@ WebGL은 HTML5 <code><canvas></code> 요소에서 사용할 수 있는, OpenGL E
 현재 <canvas> 요소와 WebGL은 일부 오래된 브라우저에서 지원되지 않으나, 최근 버전의 모든 주요 브라우저에서 지원된다. <br>
 하지만 2010년경에만 해도 WebGL을 지원하지 않는 브라우저가 많았다. <br>
 따라서 당시에는 WebGL을 사용하지 않고 Canvas로 3D등을 구현하는 라이브러리를 개발하려는 시도가 있었다. <br> 
-그 예로 SVG와 Canvas로 3D를 구현한 데모가 있는데 <a href="http://matthew.wagerfield.com/flat-surface-shader/">Flat Surface Shader</a>라는 것이 있다. <br>
+그 예로 SVG와 Canvas로 3D를 구현한 데모가 있는데, <a href="http://matthew.wagerfield.com/flat-surface-shader/">Flat Surface Shader</a>라는 것이 있다. <br>
 WebGL 프로그램은 JavaScript로 작성된 제어 코드와 컴퓨터의 Graphics Processing Unit(GPU)에서 실행되는 특수한 효과를 내는 코드(Shader code)로 구성된다. <br>
 WebGL 요소들은 다른 HTML요소들과 섞어서 함께 사용할 수 있으며, 페이지의 다른 부분이나 페이지 배경과 함께 사용 할 수 있다. <br>
 WebGL 그래픽을 그리기 위해서는 <canvas>요소를 사용해야한다. <br>
