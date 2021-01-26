@@ -5,8 +5,8 @@ Web API는 DOM 조작, 오디오 및 비디오 재생, 3D 그래픽 구현 등�
 웹 코드를 작성한다면 많은 API를 사용할 수 있다. <br>
 Web API는 보통 JavaScript와 함께 사용하지만, 항상 그렇지는 않다. <br>
 모든 API에 대한 각각의 인터페이스는 다음 <a href="https://developer.mozilla.org/ko/docs/Web/API/Blob">색인</a>에 열거되어있다. <br>
-또한 이벤트 레퍼런스에 <a href="https://developer.mozilla.org/ko/docs/Web/Events">이용가능한 모든 이벤트 목록</a>도 있다. 
-문서 객체 모델(Document Object Model, DOM)은 문서를 조회하거나 수정할 수 있는 API이다.
+또한 이벤트 레퍼런스에 <a href="https://developer.mozilla.org/ko/docs/Web/Events">이용가능한 모든 이벤트 목록</a>도 있다.  <br>
+문서 객체 모델(Document Object Model, DOM)은 문서를 조회하거나 수정할 수 있는 API이다. <br>
 Web API로는 크게 W3C와 크로노스의 API가 있다. <br>
 W3C에는 오디오, 캔버스, CORS, DOM, DOM 이벤트, EME, 파일, Geolocation, IndexedDB, MSE, SSE, SVG, 비디오, WebRTC, 웹소켓, 웹 메시징, 웹 스토리지, 웹 워커, XMLHttpRequest 가 있다. <br>
 크로노스에는 WebCL(웹 컴퓨팅 언어, 웹 가속), WebGL(Web Graphics Library)이 있다. <br>
