@@ -4,4 +4,5 @@
  <li><a href = "./script/interactive.md">인터랙티브한 것</a></li>
  <li><a href = "./script/webart.md">웹에 관한 것</a></li>
  <li><a href = "./script/webapi.md">웹 그래픽에 관한 것</a></li>
+ <li><a href = "./script/covid-and-web.md">코로나와 웹</a></li>
 </ul>
