@@ -26,6 +26,7 @@ PC와 모바일은 그 자체로 개발 환경이 될수도 있는 동시에 개
 PC환경이라면 마우스와 키보드, 카메라 등이 소통의 수단이 될 수 있고, 모바일 환경이라면 터치, 센서, 카메라, GPS 등이 소통의 수단이 될 수도 있다. <br>
 <br>
 디자이너가 인터랙티브한 콘텐츠를 제작하고 배포하기에 가장 손쉽고 빠른 수단은 웹과 앱이지만 특히 웹이 유력하다고 판단된다. <br>
+웹의 개방성은 웹사이트나 온라인 애플리케이션을 제작하려는 사람들에게 많은 기회를 제공하기 때문이다. <br>
 웹을 통한 예술을 '웹 아트'라 한다. 웹아트는 그림, 텍스트, 애니메이션의 멀티미디어 정보로 이루어진 창이다. <br>
 <br>
 초기 웹아트 작가들은 1990년대 간편해진 인터넷 언어 코딩으로 누구나 개설 가능한 매우 사적이며 자유로운 표현공간을 만들었다. <br>
@@ -52,16 +53,18 @@ W3C가 제정한 WWW 관련 표준 목록에는 CSS, CGI, DOM(Document Object Mo
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/HTML.svg/320px-HTML.svg.png">
 <br>
 <h3>웹 기본 구조</h3>
-웹의 기본적인 구조는 HTML(.html)+CSS(.css)+Javascript(.js)로 이루어진다. <br>
-HTML은 구성요소(호칭 포함)와 내용(콘텐츠)를 정의하고, <br>
-CSS는 구성요소들의 모습을 디자인하며, <br>
-Javascript는 구성요소들간의 인터렉션을 디자인한다. <br>
+<h4>기본 구조</h4>
+웹의 기본적인 구조는 HTML(.html) + CSS(.css) + 스크립트, 즉 Javascript(.js)로 이루어진다. <br>
+HTML(HyperText Markup Language)은 웹페이지에 내용을 기술하고 정의하는 데 사용한다. <br>
+CSS(Cascading Style Sheets)는 웹페이지 콘텐츠의 모양이나 표현을 기술하는 데 사용한다.<br>
+Javascript(자바스크립트)는 브라우저에서 실행되는 프로그램 언어다. 사용자의 행동에 화면이 반응하는 것과 같은 동적인 기능을 웹페이지나 애플리케이션에 넣기 위해 사용한다. <br>
+현재 Node.js를 통해 서버 상에서도 자바스크립트를 구현할 수 있게 되었다. <br>
 이 중 Javascript는 구성 요소들의 위치, 크기 움직임 등을 사용자가 원하는대로 지정할 수 있도록 한다. <br>
 특히 앨리먼트(HTML Elements)는 그래픽을 위한 컨테이너로, 패스, 박스, 원, 텍스트, 이미지 등을 그릴 수 있다. <br>
 앨리먼트의 구조는 다음과 같다. <br>
 '<tagname>Content goes here...</tagname>' <br>
 또한 앨리먼트 구성요소에는 javascript를 통해 반응하는 그림도 그릴 수 있다. <br>
-이러한 앨리먼트 내에 쉽게 그림을 그릴 수 있도록 하는 라이브러리들이 있는데, <br>
+이러한 앨리먼트 내에 쉽게 그림을 그릴 수 있도록 하는 라이브러리들이 있다. <br>
 paperjs, <br>
 processingjs, <br>
 konvajs, <br>
@@ -69,9 +72,31 @@ fabricjs, <br>
 HTML Canvas Javascript Library <br>
 등이 있다. <br>
 <br>
-직접 개발을 하지 않더라도 다양한 자바스크립트 라이브러리를 활용하여 충분히 원하는 그래픽을 구현할 수 있다. <br>
-이 외에도 JS를 이용할 수 있는 어도비사의 프로그램도 있다. <br>
+직접 개발을 하지 않더라도 플러그인이나 다양한 자바스크립트 라이브러리를 활용하여 충분히 원하는 그래픽을 구현할 수 있다. <br>
+이 외에도 자바스크립트를 이용할 수 있는 어도비사의 프로그램도 있다. <br>
 인디자인, <br>
 일러스트레이터, <br>
 등 ... <br>
 <br>
+<h3>Web API</h3>
+웹에는 여러 유용한 작업을 수행할 수 있는 다양한 API가 제공된다. <br>
+Web API(Application Programming Interfaces)는 DOM 조작, 오디오 및 비디오 재생, 3D 그래픽 구현 등의 작업을 위해 사용한다. <br>
+
+이러한 API는 자바스크립트(JavaScript)코드를 사용하여 접근할 수 있으며 window나 element에 대한 간단한 작업에서부터 WebGL이나 WebAudio와 같은 API를 사용해 복잡한 그래픽 및 오디오 효과를 만들어내는 것까지 가능하다. <br>
+웹 코드를 작성한다면 많은 API를 사용할 수 있다. <br>
+Web API는 보통 JavaScript와 함께 사용하지만, 항상 그렇지는 않다. <br>
+모든 API에 대한 각각의 인터페이스는 <a href="https://developer.mozilla.org/ko/docs/Web/API/Blob">색인</a>에 열거되어있다. <br>
+또한 이벤트 레퍼런스에 <a href="https://developer.mozilla.org/ko/docs/Web/Events">이용가능한 모든 이벤트 목록</a>도 있다. 
+문서 객체 모델(Document Object Model, DOM)은 문서를 조회하거나 수정할 수 있는 API이다.
+웹 API로는 크게 W3C와 크로노스의 API가 있다. <br>
+W3C에는 오디오, 캔버스, CORS, DOM, DOM 이벤트, EME, 파일, Geolocation, IndexedDB, MSE, SSE, SVG, 비디오, WebRTC, 웹소켓, 웹 메시징, 웹 스토리지, 웹 워커, XMLHttpRequest 가 있다. <br>
+크로노스에는 WebCL(웹 컴퓨팅 언어), WebGL(Web Graphics Library)이 있다. <br>
+<a href="https://developer.mozilla.org/ko/docs/Web/API/WebGL_API">WebGL</a>은 플러그인을 사용하지 않고 웹 브라우저에서 상호작용 가능한 3D와 2D 그래픽을 표현하기 위한 JavaScript API이다. <br>
+WebGL은 HTML5 <canvas> 요소에서 사용할 수 있는, OpenGL ES 2.0을 대부분 충족하는 API를 제공한다. <br>
+현재(2020년 기준) WebGL은 Firefox 4+, Google Chrome 9+, Opera 12+, Safari 5.1+, Internet Explorer 11+, Microsoft Edge build 10240+에서 사용할 수 있다. 그러나 사용자 장치의 하드웨어도 WebGL 기능을 지원해야 한다. <br>
+2010년경에만 해도 WebGL을 지원하지 않는 브라우저가 많았다. 따라서 WebGL을 사용하지 않고 Canvas로 3D등을 구현하는 라이브러리를 개발하려는 시도가 있었다. <br> 
+SVG와 Canvas로 3D를 구현한 데모로 <a href="http://matthew.wagerfield.com/flat-surface-shader/'">Flat Surface Shader'</a>이라는 것이 있다. <br>
+
+<h3>Web 그래픽</h3>
+웹 그래픽 기술은 크게 Canvas, SVG, WebGL이 있다. <br>
+<canvas>는 자바스크립트로 2D 그래픽 그릴 수 있게 하는 Api 를 지원한다. 
