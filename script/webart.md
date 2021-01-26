@@ -1,5 +1,5 @@
-<h2>웹에 관한 것</h2>
-<h4>개발 환경</h4>
+<h1>웹에 관한 것</h1>
+<h3>개발 환경</h3>
 최초의 전자게임(1958)부터 현재(약 2020년)까지 인터렉션 작업을 위한 개발 환경은 주로 컴퓨터다. <br>
 개발을 하기 위해서는 보통 PC에서 '개발 환경(Development Environment)'을 구축하는 것이 필수적이다. <br>
 우리는 이러한 '개발 환경'에서 '명령어'를 입력하여 원하는 결과물을 출력하도록 한다. <br>
@@ -7,7 +7,7 @@
 다양한 프로그래밍 언어를 지원하는 통합 개발 환경의 예로는 비주얼 스튜디오, 이클립스 등이 있다. <br>
 이같은 개발 환경은 개발을 하기 위한 최적의 환경을 제공해주지만, 개발이 완성된 이후 행해야할 것들에 대해서는 별도의 노력이 필요하다. <br>
 <br>
-<h4>개발 이후 배포와 유통 그리고 웹</h4>
+<h3>개발 이후 배포와 유통 그리고 웹</h3>
 개발이 완성된 이후 가장 중요한 것이 바로 '배포'와 '유통'의 문제다. '배포'와 '유통'은 미디어가 가진 특성이기도 하다. <br>
 보통 '개발 환경'에서 완성된 결과물은 '배포와 유통의 어려움'이 있다. <br>
 따라서 우리는 결과물을 배포를 할 수 있는 형태, 혹은 배포를 하기에 적절한 형식으로 만들어야한다. <br>
@@ -32,7 +32,7 @@ PC환경이라면 마우스와 키보드, 카메라 등이 소통의 수단이 �
 이들은 인터넷 사이트를 명확한 목적이나 정보나 지식을 전달하기 위한 사이트 아닌, 유희적인 기호와 시각 이미지로 가득한 놀이공간이 되도록 하였다. <br>
 초기의 웹아트 작품으로는 〈장영혜중공업(http://www.yhchang.com)〉, 〈http://wwwwwwwww.jodi.org〉 등이 있다. <br>
 <br>
-<h4>웹 디자인</h4>
+<h3>웹 디자인</h3>
 디자인과 웹 사이 가장 맞닿아있다고 볼 수 있는 영역이 바로 '웹 디자인'이다. <br>
 웹디자인은 웹 브라우저가 해석하고 그래픽 사용자 인터페이스(GUI)로 보여주기에 알맞은 마크업 언어(markup language) 형식으로 인터넷을 통해 전자 매체 콘텐츠 전달의 개념을 정하고 계획하고 모델로 만들어 실행하는 과정이다. <br>
 마크업 언어란 태그 등을 이용하여 문서나 데이터의 구조를 명기하는 언어의 한가지다. <br>
@@ -48,11 +48,10 @@ W3C는 회원기구, 정직원, 공공기관이 협력하여 웹 표준을 개�
 W3C의 설립취지는 웹의 지속적인 성장을 도모하는 프로토콜과 가이드라인을 개발하여 월드 와이드 웹의 모든 잠재력을 이끌어 내는 것이다. <br>
 W3C가 제정한 WWW 관련 표준 목록에는 CSS, CGI, DOM(Document Object Model: 문서 객체 모델), HTML, RDF, SVG, SOAP, SMIL, WSDL, XHTML, XML, XPath, XQuery, XSLT 등이 포함되어있다. <br>
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/640px-DOM-model.svg.png" style="max-width: 20%;
-  height: auto;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/640px-DOM-model.svg.png">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/HTML.svg/320px-HTML.svg.png">
 <br>
-<h4>웹 기본 구조</h4>
+<h3>웹 기본 구조</h3>
 웹의 기본적인 구조는 HTML(.html)+CSS(.css)+Javascript(.js)로 이루어진다. <br>
 HTML은 구성요소(호칭 포함)와 내용(콘텐츠)를 정의하고, <br>
 CSS는 구성요소들의 모습을 디자인하며, <br>
