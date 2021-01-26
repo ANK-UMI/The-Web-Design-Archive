@@ -55,8 +55,9 @@ W3C가 제정한 WWW 관련 표준 목록에는 CSS, CGI, DOM(Document Object Mo
 <h3>웹 기본 구조</h3>
 웹의 기본적인 구조는 HTML(.html) + CSS(.css) + 스크립트, 즉 Javascript(.js)로 이루어진다. <br>
 HTML(HyperText Markup Language)은 웹페이지에 내용을 기술하고 정의하는 데 사용한다. <br>
-CSS(Cascading Style Sheets)는 웹페이지 콘텐츠의 모양이나 표현을 기술하는 데 사용한다.<br>
-Javascript(자바스크립트)는 브라우저에서 실행되는 프로그램 언어다. 사용자의 행동에 화면이 반응하는 것과 같은 동적인 기능을 웹페이지나 애플리케이션에 넣기 위해 사용한다. <br>
+CSS(Cascading Style Sheets)는 웹페이지 콘텐츠의 모양이나 표현을 기술하는 데 사용한다. <br>
+Javascript(자바스크립트)는 브라우저에서 실행되는 프로그램 언어다. <br>
+사용자의 행동에 화면이 반응하는 것과 같은 동적인 기능을 웹페이지나 애플리케이션에 넣기 위해 사용한다. <br>
 현재 Node.js를 통해 서버 상에서도 자바스크립트를 구현할 수 있게 되었다. <br>
 이 중 Javascript는 구성 요소들의 위치, 크기 움직임 등을 사용자가 원하는대로 지정할 수 있도록 한다. <br>
 특히 앨리먼트(HTML Elements)는 그래픽을 위한 컨테이너로, 패스, 박스, 원, 텍스트, 이미지 등을 그릴 수 있다. <br>
