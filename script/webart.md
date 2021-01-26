@@ -53,7 +53,6 @@ W3C가 제정한 WWW 관련 표준 목록에는 CSS, CGI, DOM(Document Object Mo
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/HTML.svg/320px-HTML.svg.png">
 <br>
 <h3>웹 기본 구조</h3>
-<h4>기본 구조</h4>
 웹의 기본적인 구조는 HTML(.html) + CSS(.css) + 스크립트, 즉 Javascript(.js)로 이루어진다. <br>
 HTML(HyperText Markup Language)은 웹페이지에 내용을 기술하고 정의하는 데 사용한다. <br>
 CSS(Cascading Style Sheets)는 웹페이지 콘텐츠의 모양이나 표현을 기술하는 데 사용한다.<br>
@@ -82,7 +81,7 @@ HTML Canvas Javascript Library <br>
 웹에는 여러 유용한 작업을 수행할 수 있는 다양한 API가 제공된다. <br>
 Web API(Application Programming Interfaces)는 DOM 조작, 오디오 및 비디오 재생, 3D 그래픽 구현 등의 작업을 위해 사용한다. <br>
 
-이러한 API는 자바스크립트(JavaScript)코드를 사용하여 접근할 수 있으며 window나 element에 대한 간단한 작업에서부터 WebGL이나 WebAudio와 같은 API를 사용해 복잡한 그래픽 및 오디오 효과를 만들어내는 것까지 가능하다. <br>
+이러한 API는 자바스크립트(JavaScript)코드를 사용하여 접근할 수 있으며 <code>window</code>나 <code>element</code>에 대한 간단한 작업에서부터 WebGL이나 WebAudio와 같은 API를 사용해 복잡한 그래픽 및 오디오 효과를 만들어내는 것까지 가능하다. <br>
 웹 코드를 작성한다면 많은 API를 사용할 수 있다. <br>
 Web API는 보통 JavaScript와 함께 사용하지만, 항상 그렇지는 않다. <br>
 모든 API에 대한 각각의 인터페이스는 <a href="https://developer.mozilla.org/ko/docs/Web/API/Blob">색인</a>에 열거되어있다. <br>
@@ -92,11 +91,8 @@ Web API는 보통 JavaScript와 함께 사용하지만, 항상 그렇지는 않�
 W3C에는 오디오, 캔버스, CORS, DOM, DOM 이벤트, EME, 파일, Geolocation, IndexedDB, MSE, SSE, SVG, 비디오, WebRTC, 웹소켓, 웹 메시징, 웹 스토리지, 웹 워커, XMLHttpRequest 가 있다. <br>
 크로노스에는 WebCL(웹 컴퓨팅 언어), WebGL(Web Graphics Library)이 있다. <br>
 <a href="https://developer.mozilla.org/ko/docs/Web/API/WebGL_API">WebGL</a>은 플러그인을 사용하지 않고 웹 브라우저에서 상호작용 가능한 3D와 2D 그래픽을 표현하기 위한 JavaScript API이다. <br>
-WebGL은 HTML5 <canvas> 요소에서 사용할 수 있는, OpenGL ES 2.0을 대부분 충족하는 API를 제공한다. <br>
-현재(2020년 기준) WebGL은 Firefox 4+, Google Chrome 9+, Opera 12+, Safari 5.1+, Internet Explorer 11+, Microsoft Edge build 10240+에서 사용할 수 있다. 그러나 사용자 장치의 하드웨어도 WebGL 기능을 지원해야 한다. <br>
+WebGL은 HTML5 <code><canvas></code> 요소에서 사용할 수 있는, OpenGL ES 2.0을 대부분 충족하는 API를 제공한다. <br>
+현재(2020년 기준) WebGL은 Firefox 4+, Google Chrome 9+, Opera 12+, Safari 5.1+, Internet Explorer 11+, Microsoft Edge build 10240+에서 사용할 수 있다. <br>
+그러나 사용자 장치의 하드웨어도 WebGL 기능을 지원해야 한다. <br>
 2010년경에만 해도 WebGL을 지원하지 않는 브라우저가 많았다. 따라서 WebGL을 사용하지 않고 Canvas로 3D등을 구현하는 라이브러리를 개발하려는 시도가 있었다. <br> 
 SVG와 Canvas로 3D를 구현한 데모로 <a href="http://matthew.wagerfield.com/flat-surface-shader/'">Flat Surface Shader'</a>이라는 것이 있다. <br>
-
-<h3>Web 그래픽</h3>
-웹 그래픽 기술은 크게 Canvas, SVG, WebGL이 있다. <br>
-<canvas>는 자바스크립트로 2D 그래픽 그릴 수 있게 하는 Api 를 지원한다. 
