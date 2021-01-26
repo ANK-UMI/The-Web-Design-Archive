@@ -61,7 +61,7 @@ Javascript(자바스크립트)는 브라우저에서 실행되는 프로그램 �
 이 중 Javascript는 구성 요소들의 위치, 크기 움직임 등을 사용자가 원하는대로 지정할 수 있도록 한다. <br>
 특히 앨리먼트(HTML Elements)는 그래픽을 위한 컨테이너로, 패스, 박스, 원, 텍스트, 이미지 등을 그릴 수 있다. <br>
 앨리먼트의 구조는 다음과 같다. <br>
-'<tagname>Content goes here...</tagname>' <br>
+<code><tagname>Content goes here...</tagname></code><br>
 또한 앨리먼트 구성요소에는 javascript를 통해 반응하는 그림도 그릴 수 있다. <br>
 이러한 앨리먼트 내에 쉽게 그림을 그릴 수 있도록 하는 라이브러리들이 있다. <br>
 paperjs, <br>
