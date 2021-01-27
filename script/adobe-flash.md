@@ -117,7 +117,7 @@ MIT 미디어랩의 교수 존 마에다의 초기 액션스크립트 작품은 
 <br>
 플래시는 Internet Explorer(ActiveX), Firefox(NPAPI), Chrome(PPAPI), Chromium Edge(PPAPI), Legacy Edge(ActiveX), Opera(PPAPI), Safari(NPAPI), 크롬 OS(PPAPI) 등의 브라우저를 지원한다. <br>
 <br>
-<h3>플래시: 동적 웹이 탄생하게 된 배경</h3>
+<h3>플래시: 동적 웹의 탄생 배경</h3>
 플래시의 성능은 비트맵도 사용가능하지만 기본으로 벡터 그래픽을 사용하며, 동영상 처리 기술이 강점이다. <br>
 예: https://www.youtube.com/watch?v=nBkLfgDueyw&feature=player_embedded <br>
 <br>
