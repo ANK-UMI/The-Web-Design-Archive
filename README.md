@@ -5,10 +5,10 @@
  <li><a href = "./script/interactive.md">인터랙티브한 것</a></li>
  <br>
  <li><a href = "./script/coding.md">코딩에 관한 것</a></li>
- <li><a href = "./script/env-and-tool-of-code.md">코딩 환경과 도구에 관한 것</a></li>
+ <li><a href = "./script/env-and-tool-for-coding.md">코딩 환경과 도구에 관한 것</a></li>
  <br>
  <li><a href = "./script/graphics.md">그래픽에 관한 것</a></li>
- <li><a href = "./script/env-and-tool-of-graphics.md">그래픽 환경과 도구에 관한 것</a></li>
+ <li><a href = "./script/env-and-tool-for-graphics.md">그래픽 환경과 도구에 관한 것</a></li>
  <br>
  <li><a href = "./script/computer graphics.md">컴퓨터 그래픽스</a></li>
  <br>
