@@ -176,11 +176,10 @@ HTML5를 이용해 게임을 만들거나 플래시 재생 자체를 구현하�
 <br>
 <h3>어도비 플래시 콘텐츠</h3>
 <h4>뮤직비디오</h4>
-<b>뮤직비디오</b>
-https://flasharch.com/ko/archive/play/e3aca9e80216f78d56f9749ab43f4be7<br>
-
+https://flasharch.com/ko/archive/play/e3aca9e80216f78d56f9749ab43f4be7 <br>
+https://flasharch.com/ko/archive/play/fd6e8aaf1db6659a4505640ea1de6ed8 <br>
+...<br>
 <br>
-
 
 
 
