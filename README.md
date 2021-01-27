@@ -10,7 +10,7 @@
  <li><a href = "./script/graphics.md">그래픽에 관한 것</a></li>
  <li><a href = "./script/env-and-tool-for-graphics.md">그래픽 환경과 도구에 관한 것</a></li>
  <br>
- <li><a href = "./script/computer graphics.md">컴퓨터 그래픽스</a></li>
+ <li><a href = "./script/computer-graphics.md">컴퓨터 그래픽스</a></li>
  <br>
  <li><a href = "./script/webart.md">웹에 관한 것</a></li>
  <li><a href = "./script/webapi.md">웹 그래픽에 관한 것</a></li>
