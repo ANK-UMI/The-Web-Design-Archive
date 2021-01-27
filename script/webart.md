@@ -37,9 +37,29 @@ PC환경이라면 마우스와 키보드, 카메라 등이 소통의 수단이 �
 이들은 인터넷 사이트를 명확한 목적이나 정보나 지식을 전달하기 위한 사이트 아닌, 유희적인 기호와 시각 이미지로 가득한 놀이공간이 되도록 하였다. <br>
 초기의 웹아트 작품으로는 〈장영혜중공업(http://www.yhchang.com)〉, 〈http://wwwwwwwww.jodi.org〉 등이 있다. <br>
 <br>
+<h3>웹 기본 구조</h3>
+웹의 기본적인 구조는 HTML(.html) + CSS(.css) + 스크립트, 즉 Javascript(.js)로 이루어진다. <br>
+HTML(HyperText Markup Language)은 웹페이지에 내용을 기술하고 정의하는 데 사용한다. <br>
+CSS(Cascading Style Sheets)는 웹페이지 콘텐츠의 모양이나 표현을 기술하는 데 사용한다. <br>
+Javascript(자바스크립트)는 브라우저에서 실행되는 프로그램 언어다. <br>
+사용자의 행동에 화면이 반응하는 것과 같은 동적인 기능을 웹페이지나 애플리케이션에 넣기 위해 사용한다. <br>
+현재 Node.js를 통해 서버 상에서도 자바스크립트를 구현할 수 있게 되었다. <br>
+이 중 Javascript는 구성 요소들의 위치, 크기 움직임 등을 사용자가 원하는대로 지정할 수 있도록 한다. <br>
+특히 앨리먼트(HTML Elements)는 그래픽을 위한 컨테이너로, 패스, 박스, 원, 텍스트, 이미지 등을 그릴 수 있다. <br>
+앨리먼트의 구조는 다음과 같다. <br>
+<code><"태그이름">"콘텐츠"<"/""태그이름"></code>
+<br>
+또한 앨리먼트 구성요소에는 javascript를 통해 반응하는 그림도 그릴 수 있다. <br>
+이러한 앨리먼트 내에 쉽게 그림을 그릴 수 있도록 하는 라이브러리들이 있다. <br>
+paperjs, processingjs, konvajs, fabricjs, HTML Canvas Javascript Library 등이 있다. <br>
+<br>
+직접 개발을 하지 않더라도 플러그인이나 다양한 자바스크립트 라이브러리를 활용하여 충분히 원하는 그래픽을 구현할 수 있다. <br>
+이 외에도 자바스크립트를 이용할 수 있는 어도비사의 프로그램도 있다. <br>
+인디자인, 일러스트레이터, 등 ... <br>
+<br>
 <h3>웹 디자인</h3>
-디자인과 웹 사이 가장 맞닿아있다고 볼 수 있는 영역이 바로 '웹 디자인'이다. <br>
-웹디자인은 웹 브라우저가 해석하고 그래픽 사용자 인터페이스(GUI)로 보여주기에 알맞은 마크업 언어(markup language) 형식으로 인터넷을 통해 전자 매체 콘텐츠 전달의 개념을 정하고 계획하고 모델로 만들어 실행하는 과정이다. <br>
+웹과 미술 사이 가장 맞닿아있다고 볼 수 있는 영역이 바로 '웹 디자인'이다. <br>
+웹 디자인은 웹 브라우저가 해석하고 그래픽 사용자 인터페이스(GUI)로 보여주기에 알맞은 마크업 언어(markup language) 형식으로 인터넷을 통해 전자 매체 콘텐츠 전달의 개념을 정하고 계획하고 모델로 만들어 실행하는 과정이다. <br>
 마크업 언어란 태그 등을 이용하여 문서나 데이터의 구조를 명기하는 언어의 한가지다. <br>
 태그는 원래 텍스트와는 별도로 원고의 교정부호와 주석을 표현하기 위한 것이었으나 용도가 점차 확장되어 문서의 구조를 표현하는 역할을 하게 되었다. 이러한 태그 방법의 체계를 마크업 언어라고 한다. <br>
 주요 마크업 언어로는 SGML, HTML, XML, XHTML, SVG, MathML, MXML, XAML 등이 있다. <br>
@@ -56,30 +76,11 @@ W3C가 제정한 WWW 관련 표준 목록에는 CSS, CGI, DOM(Document Object Mo
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/640px-DOM-model.svg.png">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/HTML.svg/320px-HTML.svg.png">
 <br>
-<h3>웹 기본 구조</h3>
-웹의 기본적인 구조는 HTML(.html) + CSS(.css) + 스크립트, 즉 Javascript(.js)로 이루어진다. <br>
-HTML(HyperText Markup Language)은 웹페이지에 내용을 기술하고 정의하는 데 사용한다. <br>
-CSS(Cascading Style Sheets)는 웹페이지 콘텐츠의 모양이나 표현을 기술하는 데 사용한다. <br>
-Javascript(자바스크립트)는 브라우저에서 실행되는 프로그램 언어다. <br>
-사용자의 행동에 화면이 반응하는 것과 같은 동적인 기능을 웹페이지나 애플리케이션에 넣기 위해 사용한다. <br>
-현재 Node.js를 통해 서버 상에서도 자바스크립트를 구현할 수 있게 되었다. <br>
-이 중 Javascript는 구성 요소들의 위치, 크기 움직임 등을 사용자가 원하는대로 지정할 수 있도록 한다. <br>
-특히 앨리먼트(HTML Elements)는 그래픽을 위한 컨테이너로, 패스, 박스, 원, 텍스트, 이미지 등을 그릴 수 있다. <br>
-앨리먼트의 구조는 다음과 같다. <br>
-<code><"태그이름">"콘텐츠"<"/""태그이름"></code>
+<h3>웹 개발</h3>
+<h4>(1) 프론트 엔드</h4>
+  <br>
+<h4>(2) 백 엔드</h4>
+  <br>
 <br>
-또한 앨리먼트 구성요소에는 javascript를 통해 반응하는 그림도 그릴 수 있다. <br>
-이러한 앨리먼트 내에 쉽게 그림을 그릴 수 있도록 하는 라이브러리들이 있다. <br>
-paperjs, <br>
-processingjs, <br>
-konvajs, <br>
-fabricjs, <br>
-HTML Canvas Javascript Library <br>
-등이 있다. <br>
-<br>
-직접 개발을 하지 않더라도 플러그인이나 다양한 자바스크립트 라이브러리를 활용하여 충분히 원하는 그래픽을 구현할 수 있다. <br>
-이 외에도 자바스크립트를 이용할 수 있는 어도비사의 프로그램도 있다. <br>
-인디자인, <br>
-일러스트레이터, <br>
-등 ... <br>
+<h3>웹 퍼블리싱</h3>
 <br>
