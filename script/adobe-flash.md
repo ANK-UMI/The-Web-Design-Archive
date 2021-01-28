@@ -27,8 +27,8 @@
 <br>
 </i>
 <br>
-<h3>플래시와 스크립트</h3>
-<h4>* 액션 스크립트</h4> 
+<h3>플래시와 HTML5의 스크립트</h3>
+<h4>플래시: 액션 스크립트</h4> 
 어도비 애니메이트(구 어도비 플래시 프로페셔널)에서 플래시 애니메이션의 컨트롤을 위해 사용하는 스크립트 언어이다. <br>
 어도비에서 인수되기 전 플래시를 개발하던 매크로미디어[1]에서 개발한 언어이다. 원래 플래시에는 2.0부터 '액션'이라 불리는 벡터 애니메이션 제어를 위한 간단한 스크립트 언어가 붙어있었는데 이것이 플래시 5에서부터 '액션스크립트'라는 이름이 붙으며 본격적인 스크립트 언어로 발전, 현행 버전인 액션스크립트 3.0은 독립된 프로그래밍 환경이라고 말해도 무방한 수준까지 발전했다. <br>
 플래시를 컨트롤할 목적으로 만들어진 언어로 주로 애니메이션을 조작하는 play(), stop() 등의 메서드부터 시작한다. (이런 점에서는 Processing과 비슷한 점이 있다.)<br>
@@ -38,7 +38,7 @@
 2005년 12월, 어도비가 RIA(Rich Internet Application) 시장에 진출하기 위해 당시 플래시로 상한가를 올리고 있던 매크로미디어르 인수하는 대형사건이 벌어진다. <br>
 이 과정에서 매크로미디어가 개발하고 있던 새로운 버전의 액션스크립트는 어도비로 넘어가 개발을 완료하게 되는데, 첫 등장은 플래시가 아니라 2006년에 발표된 Flex2.0이었고 플래시는 이듬해에 나온 플래시 CS3 버전부터 탑재되었다. <br>
 <br>
-<h4>* ECMAScript(ES)</h4> 
+<h4>HTML5: ECMAScript(ES)</h4> 
 ECMA스크립트(ECMAScript, 또는 ES)란, Ecma International이 ECMA-262 기술 규격에 따라 정의하고 있는 표준화된 스크립트 프로그래밍 언어를 말한다. <br>
 자바스크립트를 표준화하기 위해 만들어졌다. <br>
 액션스크립트와 J스크립트 등 다른 구현체도 포함하고 있다. <br>
@@ -52,7 +52,7 @@ ECMA-262의 초판은 ECMA 일반 회의에서 1997년 6월 채택됐다. <br>
 ECMA스크립트는 ECMA-262에 의해 표준화된 언어의 이름이다. <br>
 자바스크립트와 J스크립트는 모두 ECMA스크립트와의 호환을 목표로 하면서, ECMA 규격에 포함되지 않는 확장 기능을 제공한다. <br>
 <br>
-<h4>* JavaScript vs. ECMAScript(ES)</h4> 
+<h4>HTML5: JavaScript vs. ECMAScript(ES)</h4> 
 ECMAScript는 Ecma 인터내셔널에 의해 제정된 ECMA-262 기술 규격에 의해 정의된 범용 스크립트 언어다. <br>
 동의어로는 ‘ECMAScript 사양’(ECMAScript specification)가 있다.</br>
 ECMA-262는 표준의 이름이지만, ECMAScript는 ECMA-262에서 정의된 하나의 사양을 의미한다. <br>
@@ -74,13 +74,13 @@ JavaScript는 1996년에 만들어졌고, 그 다음에 JavaScript의 표준화�
 둘의 뗄레야 뗄 수 없는 관계, 그리고 그 두 용어가 혼용되어서 사용되던 이유는 바로 여기에서부터 출발하지 않았을까 생각해본다. <br>
 (출처: https://wormwlrm.github.io/2018/10/03/What-is-the-difference-between-javascript-and-ecmascript.html) <br>
 <br>
-<h4>* ECMAScript 6</h4> 
+<h4>HTML5: ECMAScript 6</h4> 
 ECMAScript 6는 ECMA-262 표준의 제 6판이며, ECMAScript 사양의 주요 변경 사항 및 개선 사항을 명세한다.<br>
 동의어로는 ‘ES6’, ‘ES2015’, ‘ECMAScript 2015’가 있다.<br>
 국립국어원에서는 필요에 따라 표준어 규칙을 바꾸거나 새로운 단어를 표준어에 추가하기도 한다. <br>
 Ecma 역시 마찬가지로, 필요성에 따라 ECMAScript를 개정합니다. ECMAScript 6는 제 6판을 의미한다. <br>
 <br>
-<h4>* 바벨(Babel)</h4> 
+<h4>HTML5: 바벨(Babel)</h4> 
 개발자들은 ES6에서 새로 도입된 새로운 기술들을 사용할 수 있었지만, 다양한 브라우저 종류로 발생하는 호환성(Cross Browser) 문제 때문에 기술을 손쉽게 사용하기가 쉽지 않았다. <br>
 특히 Microsoft의 낡은 브라우저인 Internet Explorer가 ES6의 사양을 준수하지 않고 있다. <br>
 이를 해결하기 위해 바벨이 등장했다. <br>
