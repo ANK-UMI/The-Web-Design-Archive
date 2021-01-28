@@ -176,13 +176,13 @@ HTML5를 이용해 게임을 만들거나 플래시 재생 자체를 구현하�
 <br>
 <h3>어도비 플래시 콘텐츠의 대체</h3>
 <h4>뮤직비디오: 플래시 → 유튜브</h4>
-<b>롤링걸</b>
-https://flasharch.com/ko/archive/play/fd6e8aaf1db6659a4505640ea1de6ed8<br>
-https://youtu.be/NIqm73xsias<br>
+<b>롤링걸</b><br>
+플래시: https://flasharch.com/ko/archive/play/fd6e8aaf1db6659a4505640ea1de6ed8<br>
+유튜브: https://youtu.be/NIqm73xsias<br>
 <br>
-<b>Melt</b>
-https://flasharch.com/ko/archive/play/e3aca9e80216f78d56f9749ab43f4be7 <br>
-https://www.youtube.com/watch?v=5rFBkHb8CL8<br>
+<b>Melt</b><br>
+플래시: https://flasharch.com/ko/archive/play/e3aca9e80216f78d56f9749ab43f4be7 <br>
+유튜브: https://www.youtube.com/watch?v=5rFBkHb8CL8<br>
 <br>
 ...<br>
 <br>
