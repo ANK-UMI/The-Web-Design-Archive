@@ -174,10 +174,16 @@ Adobe는 기존의 플래시를 대체하는 새로운 웹 표준의 개발을 �
 HTML5를 이용해 게임을 만들거나 플래시 재생 자체를 구현하는 경우도 있는데, 각종 아카이브 사이트도 운영중이다.<br>
 <a href="https://flasharch.com/ko">플래시아크</a>나 <a href="https://bluemaxima.org/flashpoint/">플래시포인트</a> 같은 아카이브 서비스를이용하면 플래시 게임을 다시 인터넷에서 즐길 수 있다. <br>
 <br>
-<h3>어도비 플래시 콘텐츠</h3>
-<h4>뮤직비디오</h4>
+<h3>어도비 플래시 콘텐츠의 대체</h3>
+<h4>뮤직비디오: 플래시 → 유튜브</h4>
+<b>롤링걸</b>
+https://flasharch.com/ko/archive/play/fd6e8aaf1db6659a4505640ea1de6ed8<br>
+https://youtu.be/NIqm73xsias<br>
+<br>
+<b>Melt</b>
 https://flasharch.com/ko/archive/play/e3aca9e80216f78d56f9749ab43f4be7 <br>
-https://flasharch.com/ko/archive/play/fd6e8aaf1db6659a4505640ea1de6ed8 <br>
+https://www.youtube.com/watch?v=5rFBkHb8CL8<br>
+<br>
 ...<br>
 <br>
 
