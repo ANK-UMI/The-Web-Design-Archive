@@ -300,8 +300,8 @@ Geometry Dash나 전쟁시대같은 게임들의 대부분 유명한 BGM들이 N
 플래시: http://www.sambakza.net/works_tsi/tsi_main.html <br>
 유튜브: https://www.youtube.com/watch?v=3quYcNI3dOs&feature=emb_title <br>
 <br>
-<b>armorgames</b><br>
-https://armorgames.com/roll-merge-3d-game/19080?fp=ng <br>
+<b>그 외</b><br>
+https://flasharch.com/ko/archive/play/9d355250b48886bf3dc4ca9990adc086 <br>
 <br>
 <h4>'어른들의 사정'</h4>
 <b>ZONE-ARCHIVE</b><br>
