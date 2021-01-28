@@ -14,7 +14,7 @@
  <br>
  <li><a href = "./script/webart.md">웹에 관한 것</a></li>
  <li><a href = "./script/webapi.md">웹 그래픽에 관한 것</a></li>
- <li><a href = "./script/adobe-flash.md">플래시 게임에 관한 것</a></li>
+ <li><a href = "./script/adobe-flash.md">플래시에 관한 것</a></li>
  <li><a href = "./script/covid-and-web.md">코로나시대의 웹</a></li>
  <br>
 </ul>
