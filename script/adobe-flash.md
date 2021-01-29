@@ -295,21 +295,24 @@ Geometry Dash나 전쟁시대같은 게임들의 대부분 유명한 BGM들이 N
 공통적인 견해로, 차별과 편견에 대하여 비판하고 있다는 것은 모든 사람들이 동감하는 점이다. <br>
 이에 대한 구체적인 내용은 각종 추측과 논란이 난무하는데, 작품에서 은유하는 것은 사회가 가지고 있는 편견을 폭넓게 비유하는 것이므로 특정한 관점에 한정지을 필요는 없다.<br>
 한국에서 그다지 인기를 끌지는 못했던 반면, 오히려 해외에서 폭발적인 반응을 끌어냈다. 
- <br>
+<br>
 원작(신문): http://www.sambakza.net/works_oneday/oneday_main.html <br>
 플래시: http://www.sambakza.net/works_tsi/tsi_main.html <br>
 유튜브: https://www.youtube.com/watch?v=3quYcNI3dOs&feature=emb_title <br>
 <br>
-<b>그 외</b><br>
+<b>그 외 게임들</b><br>
 https://flasharch.com/ko/archive/play/9d355250b48886bf3dc4ca9990adc086 <br>
 <br>
-<h4>'어른들의 사정'</h4>
+<h4>(번외)플래시 음지 문화</h4>
 <b>ZONE-ARCHIVE</b><br>
 플래시: https://namu.wiki/w/%EC%A1%B4%20%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C?from=%EC%A1%B4%20%ED%83%84 <br>
 유튜브: https://www.youtube.com/watch?v=TraCvAlWSUk&feature=emb_title <br>
 <br>
-<b>4chan</b><br>
-https://www.4chan.org/ <br>
+<b>음지플래시의 대체사이트</b><br>
+플래시의 대체 사이트는 주로 youtube지만 음지 플래시의 대체사이트는 p＊rnhub 등이다. <br>
+Newgrounds: https://www.newgrounds.com/collection/adultgames <br>
+https://www.pornhub.com/view_video.php?viewkey=ph5f08b0f40c895 <br>
 <br>
-<b>Newgrounds</b><br>
-https://www.newgrounds.com/portal/view/440831
+물론 결코 만만하지 않다. <br>
+https://www.newgrounds.com/collection/adulttoons_4 <br>
+<br>
