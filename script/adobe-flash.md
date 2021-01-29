@@ -267,8 +267,8 @@ MMD는 특성상 초고화질을 지원하는 유튜브에 올리는게 메리�
 유튜브: https://www.youtube.com/watch?v=FR7wOGyAzpw&feature=youtu.be<br>
 <br>
 <h4>게임</h4>
-<b><a href="https://www.newgrounds.com/portal/view/778725">Newgrounds</a></b><br>
-미국의 플래시, 동영상, 음악 등을 취급하는 멀티미디어 UCC 사이트다. <br>
+<b>Newgrounds</b><br>
+<a href="https://www.newgrounds.com/portal/view/778725">Newgrounds</a>는 미국의 플래시, 동영상, 음악 등을 취급하는 멀티미디어 UCC 사이트다. <br>
 1995년에 설립되어 현재까지도 운영자인 톰 플루프가 CEO로 재직 중이며 본인이 해당 사이트를 통해 창작 활동을 하기도 했다. <br>
 아직 동영상 UCC가 크게 발전하지 못했던 90년대 후반부터 2000년대 초반까지 혜성처럼 등장하여 크게 성행한 종합 플래시 포털 사이트로 그 장르는 아방가르드 예술 작품을 방불케 하는 플래시 영화, 게임, 노래 등등 무궁무진한 콘텐츠를 나눌 수 있는 공간이며, 거대한 규모의 플래시 콘텐츠 사이트로 실제로 "New Playground"라는 기능을 톡톡히 해냈다. <br>
 또한 수많은 플래시 아티스트들의 발굴 사이트이기도 했다. <br>
@@ -303,7 +303,7 @@ Geometry Dash나 전쟁시대같은 게임들의 대부분 유명한 BGM들이 N
 <b>그 외 게임들</b><br>
 https://flasharch.com/ko/archive/play/9d355250b48886bf3dc4ca9990adc086 <br>
 <br>
-<h4>(번외)플래시 음지 문화</h4>
+<h3>(번외)플래시 음지 문화</h3>
 <b>ZONE-ARCHIVE</b><br>
 플래시: https://namu.wiki/w/%EC%A1%B4%20%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C?from=%EC%A1%B4%20%ED%83%84 <br>
 유튜브: https://www.youtube.com/watch?v=TraCvAlWSUk&feature=emb_title <br>
@@ -311,8 +311,8 @@ https://flasharch.com/ko/archive/play/9d355250b48886bf3dc4ca9990adc086 <br>
 <b>음지플래시의 대체사이트</b><br>
 플래시의 대체 사이트는 주로 youtube지만 음지 플래시의 대체사이트는 p＊rnhub 등이다. <br>
 Newgrounds: https://www.newgrounds.com/collection/adultgames <br>
-https://www.pornhub.com/view_video.php?viewkey=ph5f08b0f40c895 <br>
+p＊rnhub: https://www.pornhub.com/view_video.php?viewkey=ph5f08b0f40c895 <br>
 <br>
-물론 결코 만만하지 않다. <br>
+<b>물론 결코 만만하지 않다.</b><br>
 https://www.newgrounds.com/collection/adulttoons_4 <br>
 <br>
