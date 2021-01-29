@@ -16,13 +16,14 @@
  <li><a href = "./script/webapi.md">웹 API에 관한 것</a></li>
  <li><a href = "./script/html-graphics.md">웹 HTML Graphics에 관한 것</a></li>
  <br>
+  <li><a href = "./script/web-history.md">웹의 역사와 발전</a></li>
+ <br>
  <li><a href = "./script/adobe-flash.md"> Flash 시대의 웹</a></li>
- <li><a href = "./script/covid-and-web.md">HTML5 시대의 웹</a></li>
+ <li><a href = "./script/html5.md">HTML5 시대의 웹</a></li>
  <li><a href = "./script/covid-and-web.md">코로나 시대의 웹</a></li>
  <br>
- <li><a href = "./script/typography-and-web.md">한국의 웹 </a></li>
  <li><a href = "./script/typography-and-web.md">웹과 타이포그래피</a></li>
- <li><a href = "./script/typography-css.md.md">웹 타이포그래피를 위한 Cascading Style Sheets</a></li>
- <li><a href = "./script/typography-css.md.md">웹 타이포그래피를 위한 JavaScript Library</a></li>
+ <li><a href = "./script/typography-css.md">웹 타이포그래피를 위한 Cascading Style Sheets</a></li>
+ <li><a href = "./script/typography-js-library.md">웹 타이포그래피를 위한 JavaScript Library</a></li>
  <br>
 </ul>
