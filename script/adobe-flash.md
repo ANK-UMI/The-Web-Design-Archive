@@ -309,7 +309,7 @@ https://flasharch.com/ko/archive/play/9d355250b48886bf3dc4ca9990adc086 <br>
 유튜브: https://www.youtube.com/watch?v=TraCvAlWSUk&feature=emb_title <br>
 <br>
 <b>음지플래시의 대체사이트</b><br>
-플래시의 대체 사이트는 주로 youtube지만 음지 플래시의 대체사이트는 p＊rnhub 등이다. <br>
+플래시의 대체사이트는 주로 youtube지만 음지플래시의 대체사이트는 p＊rnhub 등이다. <br>
 Newgrounds: https://www.newgrounds.com/collection/adultgames <br>
 p＊rnhub: https://www.pornhub.com/view_video.php?viewkey=ph5f08b0f40c895 <br>
 <br>
