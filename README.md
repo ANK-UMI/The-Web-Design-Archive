@@ -1,12 +1,12 @@
 <h2>디자인계 코딩 생존 일지</h2>
- <h3>기술과 예술에 관한 것</h3>
  <dl>
- <dt><a href = "./script/interactive.md">인터랙티브에 관한 것</a></dt>
- <dt><a href = "./script/coding.md">코딩에 관한 것</a></dt>
- <dt><a href = "./script/env-and-tool-for-coding.md">코딩 환경과 도구에 관한 것</a></dt>
- <dt><a href = "./script/graphics.md">그래픽에 관한 것</a></dt>
- <dt><a href = "./script/env-and-tool-for-graphics.md">그래픽 환경과 도구에 관한 것</a></dt>
- <dt><a href = "./script/computer-graphics.md">컴퓨터 그래픽스</a></dt>
+ <dt>기술과 예술에 관한 것</dt>
+ <dd><a href = "./script/interactive.md">인터랙티브에 관한 것</a></dd>
+ <dd><a href = "./script/coding.md">코딩에 관한 것</a></dd>
+ <dd><a href = "./script/env-and-tool-for-coding.md">코딩 환경과 도구에 관한 것</a></dd>
+ <dd><a href = "./script/graphics.md">그래픽에 관한 것</a></dd>
+ <dd><a href = "./script/env-and-tool-for-graphics.md">그래픽 환경과 도구에 관한 것</a></dd>
+ <dd><a href = "./script/computer-graphics.md">컴퓨터 그래픽스</a></dd>
  </dl>
  <br>
  <h3>반응형 웹: 반응형 콘텐츠와 웹에 관하여</h3>
