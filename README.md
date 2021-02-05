@@ -2,7 +2,7 @@
 <ul>
  <li><a href = "./script/intro.md">기술과 예술에 관한 것</a></li>
  <br>
- <li><a href = "./script/interactive.md">인터랙티브한 것</a></li>
+ <li><a href = "./script/interactive.md">인터랙티브에 관한 것</a></li>
  <br>
  <li><a href = "./script/coding.md">코딩에 관한 것</a></li>
  <li><a href = "./script/env-and-tool-for-coding.md">코딩 환경과 도구에 관한 것</a></li>
