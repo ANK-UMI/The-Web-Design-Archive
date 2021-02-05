@@ -14,7 +14,7 @@
  <br>
   <li><a href = "./script/web-env.md">웹 환경에 관한 것</a></li>
  <li><a href = "./script/responsive-web.md">반응형 웹에 관한 것</a></li>
- <li><a href = "./script/webapi.md">웹 API에 관한 것</a></li>
+ <li><a href = "./script/web-api.md">웹 API에 관한 것</a></li>
  <br>
  <li><a href = "./script/adobe-flash.md"> Flash 시대의 웹</a></li>
  <li><a href = "./script/html5.md">HTML5 시대의 웹</a></li>
