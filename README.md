@@ -1,6 +1,6 @@
 <h2>디자인계 코딩 생존 일지</h2>
  <dl>
- <dt>기술과 예술에 관한 것</dt>
+ <dt><h3>기술과 예술에 관한 것</h3></dt>
  <dd><a href = "./script/interactive.md">인터랙티브에 관한 것</a></dd>
  <dd><a href = "./script/coding.md">코딩에 관한 것</a></dd>
  <dd><a href = "./script/env-and-tool-for-coding.md">코딩 환경과 도구에 관한 것</a></dd>
