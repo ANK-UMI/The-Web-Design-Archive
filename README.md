@@ -21,6 +21,7 @@
  <li><a href = "./script/adobe-flash.md">Flash 시대의 웹</a></li>
  <li><a href = "./script/html5.md">HTML5 시대의 웹</a></li>
  <li><a href = "./script/html-graphics.md">웹 HTML Graphics에 관한 것: Canvas, SVG, WebGL</a></li>
+ <dd><a href = "./script/html-graphics.md">- Canvas</a></dd>
  <li><a href = "./script/covid-and-web.md">비대면 시대의 웹</a></li>
  </ul>
  <br>
