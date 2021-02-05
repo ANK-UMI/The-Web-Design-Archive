@@ -12,7 +12,7 @@
  <br>
  <li><a href = "./script/computer-graphics.md">컴퓨터 그래픽스</a></li>
  <br>
- <li><a href = "./script/webart.md">웹에 관한 것</a></li>
+ <li><a href = "./script/responsive-web.md">반응형 웹에 관한 것</a></li>
  <li><a href = "./script/webapi.md">웹 API에 관한 것</a></li>
  <br>
  <li><a href = "./script/adobe-flash.md"> Flash 시대의 웹</a></li>
