@@ -32,7 +32,7 @@
  <li><a href = "./script/mobile-web.md">모바일 웹 시대의 반응형 콘텐츠</a></li>
  </ul>
  <br>
- <h2>반응형 웹과 한국 디자인</h2>
+ <h2>반응형 웹과 한국디자인</h2>
  <ul>
  <li><a href = "./script/web-history.md">한국 웹디자인의 발전</a></li>
  <li><a href = "./script/typography-and-web.md">웹과 타이포그래피</a></li>
