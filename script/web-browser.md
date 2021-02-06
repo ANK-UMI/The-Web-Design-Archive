@@ -1,0 +1,1 @@
+https://namu.wiki/w/%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80
