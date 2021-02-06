@@ -1,5 +1,5 @@
-<h2>디자인계 코딩 생존 일지(웹 디자인 위주)</h2>
-<h3>기술과 예술에 관한 것</h3>
+<h1>디자인계 코딩 생존 일지(웹 디자인 위주)</h1>
+<h2>기술과 예술에 관한 것</h2>
 <ul>
  <li><a href = "./script/interactive.md">인터랙티브에 관한 것</a></li>
  <li><a href = "./script/coding.md">코딩에 관한 것</a></li>
@@ -9,9 +9,9 @@
  <li><a href = "./script/computer-graphics.md">컴퓨터 그래픽스</a></li>
 </ul> 
  <br>
- <h4>웹 발전과 웹 표준에 따른 반응형 콘텐츠의 형태 변화</h4>
+ <h2>기술(디스플레이) 발전에 따른 콘텐츠 형태</h2>
+ <h3>웹 발전과 웹 표준에 따른 반응형 콘텐츠의 형태 변화</h3>
  <ul>
-  <li><a href = "./script/web-browser.md">웹 브라우저에 관한 것</a></li>
  <li><a href = "./script/adobe-flash.md">Flash 시대의 웹</a></li>
  <li><a href = "./script/html5.md">HTML5 시대의 웹</a></li>
  <li><a href = "./script/covid-and-web.md">비대면 시대의 웹</a></li>
@@ -24,12 +24,14 @@
  <li><a href = "./script/responsive-web.md">반응형 웹(모바일 웹 등) 시대의 콘텐츠</a></li>
  </ul>
  <br>
- <h3>웹과 콘텐츠에 관하여</h3>
+ <h2>웹과 콘텐츠에 관하여</h2>
+ <h3>웹에 대한 것</h3>
  <ul>
  <li><a href = "./script/web-vs-app.md">웹과 앱</a></li>
- <li><a href = "./script/web-des.md">웹 디자인에 관한 것</a></li>
+ <li><a href = "./script/web-des.md">웹 디자인에 대한 것</a></li>
  <li><a href = "./script/digital-divide.md">웹 접근성과 정보격차</a></li>
- <li><a href = "./script/web-api.md">웹 API에 관한 것</a></li>
+ <li><a href = "./script/web-api.md">웹 API에 대한 것</a></li>
+ <li><a href = "./script/web-browser.md">웹 브라우저에 대한 것</a></li>
  </ul> 
  <br>
  <h3>반응형 웹과 한국디자인</h3>
