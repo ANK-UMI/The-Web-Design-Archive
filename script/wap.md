@@ -3,6 +3,7 @@
 <h3>피처(feature)폰에 대해 </h3>
 https://namu.wiki/w/%ED%94%BC%EC%B2%98%ED%8F%B0<br>
 https://blog.naver.com/kcc1335/222136274375<br>
+https://blog.naver.com/korealiunx<br>
 <br>
 <h3>무선 애플리케이션 프로토콜(Wireless Application Protocol 또는 WAP)란? </h3>
 무선 애플리케이션 프로토콜(Wireless Application Protocol 또는 WAP)은 휴대 전화 등의 장비에서 인터넷을 하는 것과 같은, 무선 통신을 사용하는 응용 프로그램의 국제 표준이다. <br>
