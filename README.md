@@ -18,6 +18,7 @@
  <br>
  <h2>웹 발전과 표준에 따른 반응형 콘텐츠의 형태 변화</h2>
  <ul>
+  <li><a href = "./script/web-browser.md">웹 브라우저에 관한 것</a></li>
  <li><a href = "./script/adobe-flash.md">Flash 시대의 웹</a></li>
  <li><a href = "./script/html5.md">HTML5 시대의 웹</a></li>
  <dt><a href = "./script/html-graphics.md">웹 HTML Graphics에 관한 것: Canvas, SVG, WebGL</a></dt>
