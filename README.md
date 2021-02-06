@@ -10,14 +10,14 @@
 </ul> 
  <br>
  <h2>기술(디스플레이) 발전에 따른 콘텐츠 형태</h2>
- <h3>웹 발전과 웹 표준에 따른 반응형 콘텐츠의 형태 변화</h3>
+ <h3>(1) 웹 발전과 웹 표준에 따른 반응형 콘텐츠의 형태 변화</h3>
  <ul>
  <li><a href = "./script/adobe-flash.md">Flash 시대의 웹</a></li>
  <li><a href = "./script/html5.md">HTML5 시대의 웹</a></li>
  <li><a href = "./script/covid-and-web.md">비대면 시대의 웹</a></li>
  </ul>
  <br>
- <h3>모바일 디스플레이의 발전에 따른 반응형 콘텐츠의 형태 변화</h3>
+ <h3>(2) 모바일 디스플레이의 발전에 따른 반응형 콘텐츠의 형태 변화</h3>
  <ul>
  <li><a href = "./script/wap.md">피처폰(WAP: '무선 인터넷') 시대의 콘텐츠</a></li>
  <li><a href = "./script/smartphone.md">스마트폰 시대의 콘텐츠</a></li>
@@ -51,3 +51,4 @@
  <dt> <a href = "./script/html-graphics.md">- WebGL</a></dt>
  </ul>
  <br>
+ <h3>웹 애니메이션</h3>
