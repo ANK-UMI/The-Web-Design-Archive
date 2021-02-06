@@ -1,6 +1,6 @@
 <h2>피처폰(WAP: '무선 인터넷') 시대의 반응형 콘텐츠</h2>
 <img src ="https://w.namu.la/s/33a78d5cf7e689ae8dba84c4b22bfa612233b5a8bfeba0b25da647aa7fad435cbbf73ad146871170a653914fa2536813f7d6925d091d8c6dd0eb875d10ace4a63d62626b8294a0d7c1b3d976dd2ab820af729b0ab5795d47764bf85f4e7a284e"><br>
-<h3>피처폰에 대해 </h3>
+<h3>피처(feature)폰에 대해 </h3>
 https://namu.wiki/w/%ED%94%BC%EC%B2%98%ED%8F%B0<br>
 <br>
 <h3>무선 애플리케이션 프로토콜(Wireless Application Protocol 또는 WAP)란? </h3>
