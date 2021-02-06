@@ -32,19 +32,19 @@
  <li><a href = "./script/mobile-web.md">모바일 웹 시대의 반응형 콘텐츠</a></li>
  </ul>
  <br>
+ <h2>반응형 웹과 한국 디자인</h2>
+ <ul>
+ <li><a href = "./script/web-history.md">한국 웹디자인의 발전</a></li>
+ <li><a href = "./script/typography-and-web.md">웹과 타이포그래피</a></li>
+ <li><a href = "./script/typography-css.md">웹 타이포그래피를 위한 Cascading Style Sheets</a></li>
+ <li><a href = "./script/typography-js-library.md">웹 타이포그래피를 위한 JavaScript Library</a></li>
+ </ul>
+ <br>
  <h2>웹 그래픽</h2>
  <ul>
  <li><a href = "./script/html-graphics.md">웹 HTML Graphics에 관한 것: Canvas, SVG, WebGL</a></li>
  <dt> <a href = "./script/html-graphics.md">- Canvas</a></dt>
  <dt> <a href = "./script/html-graphics.md">- SVG</a></dt>
  <dt> <a href = "./script/html-graphics.md">- WebGL</a></dt>
- </ul>
- <br>
- <h2>반응형 웹과 디자인</h2>
- <ul>
- <li><a href = "./script/web-history.md">웹의 발전</a></li>
- <li><a href = "./script/typography-and-web.md">웹과 타이포그래피</a></li>
- <li><a href = "./script/typography-css.md">웹 타이포그래피를 위한 Cascading Style Sheets</a></li>
- <li><a href = "./script/typography-js-library.md">웹 타이포그래피를 위한 JavaScript Library</a></li>
  </ul>
  <br>
