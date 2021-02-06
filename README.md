@@ -10,6 +10,7 @@
  <br>
  <h2>웹과 콘텐츠에 관하여</h2>
 <ul>
+ <li><a href = "./script/web-vs-app.md">웹과 앱</a></li>
  <li><a href = "./script/digital-divide.md">접근성과 정보격차</a></li>
  <li><a href = "./script/web-des.md">웹 디자인에 관한 것</a></li>
  <li><a href = "./script/responsive-web.md">반응형 웹에 관한 것</a></li>
