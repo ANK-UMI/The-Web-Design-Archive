@@ -30,7 +30,7 @@
  <br>
  <h2>모바일 디스플레이의 발전에 따른 반응형 콘텐츠의 형태 변화</h2>
  <ul>
- <li><a href = "./script/wap.md">WAP('무선 인터넷') 시대의 반응형 콘텐츠</a></li>
+ <li><a href = "./script/wap.md">WAP(무선 인터넷) 시대의 반응형 콘텐츠</a></li>
  <li><a href = "./script/mobile-web.md">모바일 웹 시대의 반응형 콘텐츠</a></li>
  </ul>
  <br>
