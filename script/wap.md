@@ -1,6 +1,5 @@
 <h2>WAP(무선 인터넷) 시대의 반응형 콘텐츠</h2>
 <img src ="https://w.namu.la/s/33a78d5cf7e689ae8dba84c4b22bfa612233b5a8bfeba0b25da647aa7fad435cbbf73ad146871170a653914fa2536813f7d6925d091d8c6dd0eb875d10ace4a63d62626b8294a0d7c1b3d976dd2ab820af729b0ab5795d47764bf85f4e7a284e"><br>
-<br>
 무선 애플리케이션 프로토콜(Wireless Application Protocol 또는 WAP)은 휴대 전화 등의 장비에서 인터넷을 하는 것과 같은, 무선 통신을 사용하는 응용 프로그램의 국제 표준이다. <br>
 WAP은 피쳐폰같은 매우 작은 저사양 이동통신 장비에 웹 브라우저와 같은 서비스를 제공하기 위해 설계되었다. <br>
 피쳐폰 시대 당시의 한국에서는 WAP를 '무선 인터넷'이라 불렀다. <br>
@@ -26,7 +25,6 @@ LG U+는 'U+Lite'(구 'ez-i', '다운타운', 'OZ lite', 'OZ life24') <br>
 <h2>피처폰의 모바일 웹 브라우저</h2>
 <img src ="https://w.namu.la/s/f9dfafbc091bba12530128c6fbbb16cabfecedb786d6f94a8f7d2f4d9d2c09bd56ccfbdd8a0700459bc05bb631357382000c1a09a400ab32d356218b7811fd27ecac798b6904a105ac813e1b6feddef94448eddd5968deffb5919d290b584e90e57a9a6792e286d8fca52e823f82f3d3"><br>
 <img src ="https://w.namu.la/s/f9dfafbc091bba12530128c6fbbb16cabfecedb786d6f94a8f7d2f4d9d2c09bd56ccfbdd8a0700459bc05bb631357382000c1a09a400ab32d356218b7811fd27ecac798b6904a105ac813e1b6feddef94448eddd5968deffb5919d290b584e90e57a9a6792e286d8fca52e823f82f3d3"><br>
-<br>
 기기마다 차이가 있지만 공통적으로 웹 표준이 적용되지 않으며, 웹서핑을 하기 힘들다. <br>
 와이파이 환경에서 TLS 환경의 사이트(페이스북, 네이버 등) 접속이 불가하며 반드시 데이터를 사용해야하는데, 이는 통신사의 의도적인 조작과 상술로 보인다. <br>
 <br><br>
