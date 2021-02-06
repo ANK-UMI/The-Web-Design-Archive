@@ -15,7 +15,6 @@
   <li><a href = "./script/digital-divide.md">웹 접근성과 정보격차</a></li>
  <li><a href = "./script/responsive-web.md">반응형 웹에 관한 것</a></li>
  <li><a href = "./script/web-api.md">웹 API에 관한 것</a></li>
- <li><a href = "./script/web-graphic.md">웹 그래픽에 관한 것</a></li>
 </ul> 
  <br>
  <h2>웹 발전과 표준에 따른 반응형 콘텐츠의 형태 변화</h2>
@@ -42,6 +41,7 @@
  <br>
  <h2>웹 그래픽</h2>
  <ul>
+ <li><a href = "./script/web-graphic.md">웹 그래픽에 관한 것</a></li>
  <li><a href = "./script/html-graphics.md">웹 HTML Graphics에 관한 것: Canvas, SVG, WebGL</a></li>
  <dt> <a href = "./script/html-graphics.md">- Canvas</a></dt>
  <dt> <a href = "./script/html-graphics.md">- SVG</a></dt>
