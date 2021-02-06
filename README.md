@@ -14,7 +14,6 @@
  <li><a href = "./script/web-vs-app.md">웹과 앱</a></li>
  <li><a href = "./script/web-des.md">웹 디자인에 관한 것</a></li>
   <li><a href = "./script/digital-divide.md">웹 접근성과 정보격차</a></li>
- <li><a href = "./script/responsive-web.md">반응형 웹에 관한 것</a></li>
  <li><a href = "./script/web-api.md">웹 API에 관한 것</a></li>
 </ul> 
  <br>
@@ -29,7 +28,7 @@
  <h3>모바일 디스플레이의 발전에 따른 반응형 콘텐츠의 형태 변화</h3>
  <ul>
  <li><a href = "./script/wap.md">WAP(무선 인터넷) 시대의 콘텐츠</a></li>
- <li><a href = "./script/mobile-web.md">모바일 웹 시대의 콘텐츠</a></li>
+ <li><a href = "./script/responsive-web.md">반응형 웹(⊃모바일 웹) 시대의 콘텐츠</a></li>
  </ul>
  <br>
  <h3>반응형 웹과 한국디자인</h3>
