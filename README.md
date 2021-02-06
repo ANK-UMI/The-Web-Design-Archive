@@ -9,14 +9,6 @@
  <li><a href = "./script/computer-graphics.md">컴퓨터 그래픽스</a></li>
 </ul> 
  <br>
- <h3>웹과 콘텐츠에 관하여</h3>
-<ul>
- <li><a href = "./script/web-vs-app.md">웹과 앱</a></li>
- <li><a href = "./script/web-des.md">웹 디자인에 관한 것</a></li>
-  <li><a href = "./script/digital-divide.md">웹 접근성과 정보격차</a></li>
- <li><a href = "./script/web-api.md">웹 API에 관한 것</a></li>
-</ul> 
- <br>
  <h3>웹 발전과 웹 표준에 따른 반응형 콘텐츠의 형태 변화</h3>
  <ul>
   <li><a href = "./script/web-browser.md">웹 브라우저에 관한 것</a></li>
@@ -31,6 +23,14 @@
  <li><a href = "./script/smartphone.md">스마트폰 시대의 콘텐츠</a></li>
  <li><a href = "./script/responsive-web.md">반응형 웹(모바일 웹 등) 시대의 콘텐츠</a></li>
  </ul>
+ <br>
+ <h3>웹과 콘텐츠에 관하여</h3>
+ <ul>
+ <li><a href = "./script/web-vs-app.md">웹과 앱</a></li>
+ <li><a href = "./script/web-des.md">웹 디자인에 관한 것</a></li>
+ <li><a href = "./script/digital-divide.md">웹 접근성과 정보격차</a></li>
+ <li><a href = "./script/web-api.md">웹 API에 관한 것</a></li>
+ </ul> 
  <br>
  <h3>반응형 웹과 한국디자인</h3>
  <ul>
