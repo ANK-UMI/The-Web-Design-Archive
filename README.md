@@ -28,7 +28,7 @@
  <h3>모바일 디스플레이의 발전에 따른 반응형 콘텐츠의 형태 변화</h3>
  <ul>
  <li><a href = "./script/wap.md">WAP(무선 인터넷) 시대의 콘텐츠</a></li>
- <li><a href = "./script/responsive-web.md">반응형 웹(⊃모바일 웹) 시대의 콘텐츠</a></li>
+ <li><a href = "./script/responsive-web.md">반응형 웹(모바일 웹 등) 시대의 콘텐츠</a></li>
  </ul>
  <br>
  <h3>반응형 웹과 한국디자인</h3>
