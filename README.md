@@ -9,7 +9,7 @@
  <li><a href = "./script/computer-graphics.md">컴퓨터 그래픽스</a></li>
 </ul> 
  <br>
- <h3>웹 발전과 웹 표준에 따른 반응형 콘텐츠의 형태 변화</h3>
+ <h4>웹 발전과 웹 표준에 따른 반응형 콘텐츠의 형태 변화</h4>
  <ul>
   <li><a href = "./script/web-browser.md">웹 브라우저에 관한 것</a></li>
  <li><a href = "./script/adobe-flash.md">Flash 시대의 웹</a></li>
