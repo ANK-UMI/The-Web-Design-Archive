@@ -54,6 +54,7 @@ https://sanctacrux.tistory.com/219?category=360180<br>
 <br>
 <h3>웹 기본 구조</h3>
 웹의 기본적인 구조는 HTML(.html) + CSS(.css) + 스크립트, 즉 Javascript(.js)로 이루어진다. <br>
+<br>
 HTML(HyperText Markup Language)은 웹페이지에 내용을 기술하고 정의하는 데 사용한다. <br>
 파일 확장자는 '.html', '.htm'이다. <br>
 2020년 기준 현재 사용되고 있는 웹 표준인 HTML5는 W3C에서 개발했으며, 2014년 10월 28일 발표했다. <br>
@@ -63,10 +64,13 @@ HTML(HyperText Markup Language)은 웹페이지에 내용을 기술하고 정의
 HTML5는 HTML의 새로운 버전으로 'Client Side Technology' 기술의 중심이 되는 마크업 언어다. <br>
 가장 특징적인 것은, 기존의 웹 문서에서는 HTML 만으로 웹 서비스를 구성하는 것이 불가능하였지만 HTML5로 넘어오면서 클라이언트와 서버와의 통신이 가능하며 이에 대한 부가 기능을 제공함으로써 다른 외부 'Active-X'와 같은 플러그인을 사용하지 않고도 웹 서비스를 제공할 수 있을 정도로 많은 기능이 추가되었다는 것이다. <br>
 HTML5는 'Client Side Technology'를 강력하게 지원하는 단순 표현 HTML을 그 이상의 의미를 가지도록 더 높은 차원으로 발전시킨 기술이다. <br>
-즉, 기존의 HTML은 HTML 4.0 이후에도 W3C에 의해서 HTML 4.01, XHTML 1.0, 1.1, 2.0 등으로 발전해 왔지만 이런 그동안의 HTML 에서 의 한계를 극복하기 위해 HTML5 가 탄생하게 된 것이다. <br>
+즉, 기존의 HTML은 HTML 4.0 이후에도 W3C에 의해서 HTML 4.01, XHTML 1.0, 1.1, 2.0 등으로 발전해 왔지만 이런 그동안의 HTML 에서의 한계를 극복하기 위해 HTML5 가 탄생하게 된 것이다. <br>
 HTML5에서는 크게 차세대 웹 표준으로 HTML이 멀티미디어 등 다양한 애플리케이션까지 제공하도록 바뀌었다. <br>
 이제는 HTML5로만 개발하기 때문에 HTML5보다는 HTML이라 말하는 추세다. <br>
+<a href="./html5.md">HTML5</a> 문서에 구체적인 내용을 정리해두었다. 
+<br>
 <img src="./images/html-vs-html5.png"> <br>
+<br>
 CSS(Cascading Style Sheets)는 웹페이지 콘텐츠의 모양이나 표현을 기술하는 데 사용한다. <br>
 Javascript(자바스크립트)는 브라우저에서 실행되는 프로그램 언어다. <br>
 사용자의 행동에 화면이 반응하는 것과 같은 동적인 기능을 웹페이지나 애플리케이션에 넣기 위해 사용한다. <br>
