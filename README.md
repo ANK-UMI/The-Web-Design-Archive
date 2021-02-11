@@ -14,6 +14,7 @@
  <ul>
  <li><a href = "./script/adobe-flash.md">Flash 시대의 웹</a></li>
  <li><a href = "./script/flashplayer-end-of-life.md">HTML5 시대에 남은 Flash 형태 연구</a></li>
+ <li><a href = "./script/media-archaeology.md">미디어 고고학</a></li>
  <li><a href = "./script/html5.md">HTML5 시대의 웹</a></li>
  <li><a href = "./script/ ">ES6 시대의 웹</a></li>
  <li><a href = "./script/covid-and-web.md">비대면 시대의 웹</a></li>
