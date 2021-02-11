@@ -13,7 +13,7 @@
  <h3>(1) 웹 발전과 웹 표준에 따른 반응형 콘텐츠의 형태 변화</h3>
  <ul>
  <li><a href = "./script/adobe-flash.md">Flash 시대의 웹</a></li>
- <li><a href = "./script/ ">HTML5 시대에 남은 Flash 형태 연구</a></li>
+ <li><a href = "./script/flashplayer-end-of-life.md">HTML5 시대에 남은 Flash 형태 연구</a></li>
  <li><a href = "./script/html5.md">HTML5 시대의 웹</a></li>
  <li><a href = "./script/ ">ES6 시대의 웹</a></li>
  <li><a href = "./script/covid-and-web.md">비대면 시대의 웹</a></li>
