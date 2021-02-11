@@ -67,7 +67,7 @@ HTML5는 'Client Side Technology'를 강력하게 지원하는 단순 표현 HTM
 즉, 기존의 HTML은 HTML 4.0 이후에도 W3C에 의해서 HTML 4.01, XHTML 1.0, 1.1, 2.0 등으로 발전해 왔지만 이런 그동안의 HTML 에서의 한계를 극복하기 위해 HTML5 가 탄생하게 된 것이다. <br>
 HTML5에서는 크게 차세대 웹 표준으로 HTML이 멀티미디어 등 다양한 애플리케이션까지 제공하도록 바뀌었다. <br>
 이제는 HTML5로만 개발하기 때문에 HTML5보다는 HTML이라 말하는 추세다. <br>
-<a href="./html5.md">HTML5</a> 문서에 구체적인 내용을 정리해두었다. 
+자세한 내용은 <a href="./html5.md">HTML5</a> 문서에 정리해두었다. 
 <br>
 <img src="./images/html-vs-html5.png"> <br>
 <br>
