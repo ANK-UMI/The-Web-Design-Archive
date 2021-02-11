@@ -24,11 +24,6 @@ HTML5의 등장으로 CSS3, 자바스크립트 API를 통한 기능의 확장과
 특히 은행에서는 액티브엑스의 설치 없이 다른 웹 브라우저에서도 인터넷 금융 서비스를 사용할 수 있는 이른바 "오픈뱅킹"을 적극적으로 도입하는 추세다. <br>
 새로운 웹 표준 문서 규격인 "HTML5"가 액티브엑스의 문제점을 극복할 수 있는 수단이기도 하며 HTML5 규격으로 개발된 웹사이트는 각기 다른 웹브라우저나 운영체제를 사용하더라도 동일하게 웹페이지를 표시할 수 있으며, 액티브엑스와 같은 플러그인의 설치 없이도 자체적으로 음악이나 동영상의 재생이 가능하도록 설계,제작할 수 있는 것이다. <br>
 <br>
-HTML5는 네이티브 브라우저에서 여태까지 구현한 Javascript 라이브러리 기술과 컴포넌트들을 지원하는데 초점을 맞추고 있다.  <br>
-<a href="https://developer.yahoo.com/performance/rules.html">야후 디벨로퍼</a>, <a href="https://www.html5rocks.com/ko/tutorials/speed/quick/">구글</a> 등
-<br>
-https://totb.kr/Site_K/blog/blog_list.asp?smenu=1&sword=&a_idx=2&b_idx=10&idx=1027&search_text=erp&page=12
-<br>
 HTML의 주요 기능으로는 다음과 같은 것들이 있다. <br>
 Device AccessDEVICE ACCESS: 카메라, 동작센서 등의 H/W 기능을 웹에서 직접적으로 제어한다. <br>
 CONNECTIVITY(Web Socket): 웹(클라이언트)에서 서버 측과 직접적인 양방향 통신이 가능하다. <br>
@@ -60,3 +55,8 @@ HTML 페이지를 프로그램으로 간주한다면 현존하는 브라우저 �
 문서 타입은 기존의 HTML 문서타입보다 훨씬 간결하다. <br>
 https://webclub.tistory.com/491
 <br>
+<br>
+HTML5는 네이티브 브라우저에서 여태까지 구현한 Javascript 라이브러리 기술과 컴포넌트들을 지원하는데 초점을 맞추고 있다.  <br>
+<a href="https://developer.yahoo.com/performance/rules.html">야후 디벨로퍼</a>, <a href="https://www.html5rocks.com/ko/tutorials/speed/quick/">구글</a> 등
+<br>
+https://totb.kr/Site_K/blog/blog_list.asp?smenu=1&sword=&a_idx=2&b_idx=10&idx=1027&search_text=erp&page=12
