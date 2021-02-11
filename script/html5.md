@@ -56,7 +56,3 @@ HTML 페이지를 프로그램으로 간주한다면 현존하는 브라우저 �
 https://webclub.tistory.com/491
 <br>
 <br>
-HTML5는 네이티브 브라우저에서 여태까지 구현한 Javascript 라이브러리 기술과 컴포넌트들을 지원하는데 초점을 맞추고 있다.  <br>
-<a href="https://developer.yahoo.com/performance/rules.html">야후 디벨로퍼</a>, <a href="https://www.html5rocks.com/ko/tutorials/speed/quick/">구글</a> 등
-<br>
-https://totb.kr/Site_K/blog/blog_list.asp?smenu=1&sword=&a_idx=2&b_idx=10&idx=1027&search_text=erp&page=12
