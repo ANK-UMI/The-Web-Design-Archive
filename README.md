@@ -45,6 +45,12 @@
  <li><a href = "./script/typography-js-library.md">웹 타이포그래피를 위한 JavaScript Library</a></li>
  </ul>
  <br>
+  <h3>HTML 웹 기본 구조</h3>
+ <ul>
+ <li><a href = " ">HTML의 구조</a></li>
+ <li><a href = " ">HTML </a></li>
+ </ul>
+ <br>
  <h3>웹 그래픽</h3>
  <ul>
  <li><a href = "./script/web-graphic.md">웹 그래픽에 관한 것</a></li>
