@@ -37,18 +37,10 @@
  <li><a href = "./script/web-browser.md">웹 브라우저에 대한 것</a></li>
  </ul> 
  <br>
- <h3>반응형 웹과 한국디자인</h3>
- <ul>
- <li><a href = "./script/web-history.md">한국 웹디자인의 발전</a></li>
- <li><a href = "./script/typography-and-web.md">웹과 타이포그래피</a></li>
- <li><a href = "./script/typography-css.md">웹 타이포그래피를 위한 Cascading Style Sheets</a></li>
- <li><a href = "./script/typography-js-library.md">웹 타이포그래피를 위한 JavaScript Library</a></li>
- </ul>
- <br>
   <h3>HTML 웹 기본 구조</h3>
  <ul>
  <li><a href = " ">HTML의 구조</a></li>
- <li><a href = " ">HTML </a></li>
+ <li><a href = " ">HTML 작성하기</a></li>
  </ul>
  <br>
  <h3>웹 그래픽</h3>
@@ -61,3 +53,12 @@
  </ul>
  <br>
  <h3>웹 애니메이션</h3>
+ <br>
+ <h3>반응형 웹과 한국디자인</h3>
+ <ul>
+ <li><a href = "./script/web-history.md">한국 웹디자인의 발전</a></li>
+ <li><a href = "./script/typography-and-web.md">웹과 타이포그래피</a></li>
+ <li><a href = "./script/typography-css.md">웹 타이포그래피를 위한 Cascading Style Sheets</a></li>
+ <li><a href = "./script/typography-js-library.md">웹 타이포그래피를 위한 JavaScript Library</a></li>
+ </ul>
+ 
