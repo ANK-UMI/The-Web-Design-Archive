@@ -1,2 +1,18 @@
-https://developer.mozilla.org/ko/docs/Web<br>
-http://www.tcpschool.com/html-tags/canvas<br>
+- HTML Canvas
+-- The HTML <canvas> element is used to draw graphics, on the fly, via JavaScript.
+-- The <canvas> element is only a container for graphics.
+-- You must use JavaScript to actually draw the graphics.
+-- Canvas has several methods for drawing paths, boxes, circles, text, and adding images.
+-- By default, a canvas has no border and no content.
+-- 
+-- http://www.tcpschool.com/html-tags/canvas
+-- https://www.w3schools.com/html/html5_canvas.asp
+-- https://developer.mozilla.org/ko/docs/Web
+
+- Getting started with WebGL
+-- WebGL은 플러그인을 사용하지 않고 OpenGL ES 2.0 기반 API를 이용하여 브라우저의 HTML canvas 에 렌더링하여 3D 웹 콘텐츠 제작을 가능하게 합니다. 
+-- WebGL 프로그램은 컴퓨터의 그래픽 처리 장치(GPU)에서 실행되는 자바스크립트나 특수 효과(셰이더 코드)코드로 구성됩니다. 
+-- WebGL 요소들은 다른 HTML 요소들과 혼합될 수 있고 페이지나 페이지 배경의 다른 부분과 합성될 수 있습니다. 
+-- https://developer.mozilla.org/ko/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL
+-- WebGL을 사용하여 3D 렌더링을 하는 데 첫 번째로 필요한 것은 캔버스입니다. 
+-- 우선 canvas를 만들고 사용할 WebGL 컨텍스트를 초기화하는 onload  이벤트 핸들러를 지정합니다. (The first thing you need in order to use WebGL for rendering is a canvas. The HTML fragment below declares a canvas that our sample will draw into.)
